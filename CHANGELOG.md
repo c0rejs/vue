@@ -1,5 +1,13 @@
 # Changelog
 
+### v7.9.31 (2025-10-26)
+
+**Other changes:**
+
+- style: lint (● [3dedc22](https://github.com/softvisio-node/vue/commit/3dedc22); 👬 zdm)
+
+Compare with the previous release: [v7.9.30](https://github.com/softvisio-node/vue/compare/v7.9.30...v7.9.31)
+
 ### v7.9.30 (2025-08-25)
 
 **Bug fixes:**
