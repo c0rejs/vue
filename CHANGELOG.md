@@ -1,5 +1,13 @@
 # Changelog
 
+### v7.9.33 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [966610b](https://github.com/c0rejs/vue/commit/966610b); 👬 zdm)
+
+Compare with the previous release: [v7.9.32](https://github.com/c0rejs/vue/compare/v7.9.32...v7.9.33)
+
 ### v7.9.32 (2025-12-10)
 
 **Other changes:**
