@@ -6,14 +6,14 @@
         "softvisio",
         "vue"
     ],
-    "homepage": "https://softvisio-node.github.io/vue/",
+    "homepage": "https://c0rejs.github.io/vue/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/vue/issues",
+        "url": "https://github.com/c0rejs/vue/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/softvisio-node/vue.git"
+        "url": "git+https://github.com/c0rejs/vue.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
