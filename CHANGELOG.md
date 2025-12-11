@@ -1,5 +1,17 @@
 # Changelog
 
+### v7.9.34 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [be7e379](https://github.com/c0rejs/vue/commit/be7e379); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [5e4e62f](https://github.com/c0rejs/vue/commit/5e4e62f); 👬 zdm)
+
+Compare with the previous release: [v7.9.33](https://github.com/c0rejs/vue/compare/v7.9.33...v7.9.34)
+
 ### v7.9.33 (2025-12-10)
 
 **Other changes:**
