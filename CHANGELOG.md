@@ -1,5 +1,13 @@
 # Changelog
 
+### v7.9.58 (2026-07-15)
+
+**Other changes:**
+
+- style: lint (● [19bcce0](https://github.com/corejslib/vue/commit/19bcce0); 👬 zdm)
+
+Compare with the previous release: [v7.9.57...v7.9.58](https://github.com/corejslib/vue/compare/v7.9.57...v7.9.58)
+
 ### v7.9.57 (2026-07-02)
 
 **Bug fixes:**
