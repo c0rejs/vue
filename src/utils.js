@@ -124,7 +124,7 @@ function parseContentDispositionFilename ( header ) {
     const params = {};
 
     for ( const param of header.split( ";" ) ) {
-        const [ key, value ] = param.split( "=" );
+        const [ key, value ] = param.split( "=", 2 );
 
         params[ key?.trim() ] = value?.trim();
     }
