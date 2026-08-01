@@ -1,5 +1,13 @@
 # Changelog
 
+### v7.9.59 (2026-08-01)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update package keywords (● [3c631a5](https://github.com/corejslib/vue/commit/3c631a5); 👬 zdm)
+
+Compare with the previous release: [v7.9.58...v7.9.59](https://github.com/corejslib/vue/compare/v7.9.58...v7.9.59)
+
 ### v7.9.58 (2026-07-15)
 
 **Other changes:**
