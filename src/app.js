@@ -112,11 +112,12 @@ export default class VueApp extends Events {
 
         // wait for device ready under cordova
         if ( this.isCordova ) {
-            await new Promise( resolve =>
-                document.addEventListener( "deviceready", resolve, {
+            await new Promise( resolve => {
+                return document.addEventListener( "deviceready", resolve, {
                     "once": true,
                     "capture": true,
-                } ) );
+                } );
+            } );
         }
 
         this._onDeviceReady();
