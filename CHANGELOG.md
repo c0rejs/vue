@@ -1,5 +1,13 @@
 # Changelog
 
+### v7.9.62 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [da02afc](https://github.com/corejslib/vue/commit/da02afc), [4678239](https://github.com/corejslib/vue/commit/4678239), [69e96af](https://github.com/corejslib/vue/commit/69e96af); 👬 zdm)
+
+Compare with the previous release: [v7.9.61...v7.9.62](https://github.com/corejslib/vue/compare/v7.9.61...v7.9.62)
+
 ### v7.9.61 (2026-08-04)
 
 **Other changes:**
