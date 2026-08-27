@@ -72,6 +72,10 @@ export default class Settings {
         return this.#settings.allow_weak_passwords;
     }
 
+    get allowPwnedPasswords () {
+        return this.#settings.allow_pwned_passwords;
+    }
+
     get components () {
         return ( this.#components ??= new Set( this.#settings.components ) );
     }
