@@ -1,5 +1,13 @@
 # Changelog
 
+### v7.10.0 (2026-08-27)
+
+**New features:**
+
+- \[MINOR] feat: add app allowPwnedPasswords (● [3314f30](https://github.com/corejslib/vue/commit/3314f30); 👬 zdm)
+
+Compare with the previous release: [v7.9.62...v7.10.0](https://github.com/corejslib/vue/compare/v7.9.62...v7.10.0)
+
 ### v7.9.62 (2026-08-04)
 
 **Other changes:**
